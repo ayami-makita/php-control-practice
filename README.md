@@ -20,6 +20,6 @@ PHPを使用し、成績判定プログラムを作成しました。
 - (オプション) Docker / Docker Compose (ローカルがPHP環境になっていない場合)
 
 ###リポジトリをクローン
-'''bash
+bash
 git clone https://github.com/ayami-makita/php-control-practice
 cd php-hands-on

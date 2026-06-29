@@ -14,12 +14,12 @@ PHPを使用し、成績判定プログラムを作成しました。
 - 繰り返し処理の仕方
 
 ## 動作確認
-###必要環境
+### 必要環境
 - PHP 8.1以降 (Compser 2.x も推奨)
 - composer
 - (オプション) Docker / Docker Compose (ローカルがPHP環境になっていない場合)
 
-###リポジトリをクローン
+### リポジトリをクローン
 bash
 git clone https://github.com/ayami-makita/php-control-practice
 cd php-hands-on
